@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/AITODO.iml" filepath="$PROJECT_DIR$/AITODO.iml" />
+      <module fileurl="file://$PROJECT_DIR$/AI_TODO/AI_TODO.iml" filepath="$PROJECT_DIR$/AI_TODO/AI_TODO.iml" />
     </modules>
   </component>
 </project>

@@ -4,12 +4,10 @@
          xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/xsd/maven-4.0.0.xsd">
     <modelVersion>4.0.0</modelVersion>
 
-    <groupId>groupId</groupId>
-    <artifactId>AITODO</artifactId>
+    <groupId>AI_TODO</groupId>
+    <artifactId>AI_TODO</artifactId>
     <version>1.0-SNAPSHOT</version>
-
-
-    <!-- https://mvnrepository.com/artifact/org.springframework/spring-core -->
+<dependencies>
     <dependency>
         <groupId>org.springframework</groupId>
         <artifactId>spring-core</artifactId>
@@ -43,6 +41,5 @@
         <artifactId>angular__core</artifactId>
         <version>4.4.4</version>
     </dependency>
-
-
+</dependencies>
 </project>

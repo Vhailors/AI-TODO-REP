@@ -1,9 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="43bc673e-2960-43fb-831c-1862e68ba1f4" name="Default" comment="" />
+    <list default="true" id="43bc673e-2960-43fb-831c-1862e68ba1f4" name="Default" comment="">
+      <change type="DELETED" beforePath="$PROJECT_DIR$/pom.xml" afterPath="" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+    </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/target/" />
+    <ignored path="$PROJECT_DIR$/AI_TODO/target/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -14,12 +18,54 @@
   <component name="ExecutionTargetManager" SELECTED_TARGET="default_target" />
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="workspace.xml" pinned="false" current-in-tab="true">
+      <file leaf-file-name="workspace.xml" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/.idea/workspace.xml">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-1512">
+            <state relative-caret-position="-2268">
               <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-              <folding />
+              <folding>
+                <marker date="1510047216891" expanded="true" signature="52411:52430" ph="..." />
+                <marker date="1510047216891" expanded="true" signature="52411:52448" ph="..." />
+                <marker date="1510047216891" expanded="true" signature="52411:52461" ph="..." />
+                <marker date="1510047216891" expanded="true" signature="52411:52476" ph="..." />
+                <marker date="1510047216891" expanded="true" signature="52511:54973" ph="..." />
+                <marker date="1510047216891" expanded="true" signature="52524:54958" ph="..." />
+                <marker date="1510047216891" expanded="true" signature="52578:52873" ph="..." />
+                <marker date="1510047216891" expanded="true" signature="52597:52858" ph="..." />
+                <marker date="1510047216891" expanded="true" signature="52660:52838" ph="..." />
+                <marker date="1510047216891" expanded="true" signature="52700:52804" ph="..." />
+                <marker date="1510047216891" expanded="true" signature="52721:52782" ph="..." />
+                <marker date="1510047216891" expanded="true" signature="52923:53250" ph="..." />
+                <marker date="1510047216891" expanded="true" signature="52942:53235" ph="..." />
+                <marker date="1510047216891" expanded="true" signature="53037:53215" ph="..." />
+                <marker date="1510047216891" expanded="true" signature="53077:53181" ph="..." />
+                <marker date="1510047216891" expanded="true" signature="53098:53159" ph="..." />
+                <marker date="1510047216891" expanded="true" signature="53301:53566" ph="..." />
+                <marker date="1510047216891" expanded="true" signature="53320:53551" ph="..." />
+                <marker date="1510047216891" expanded="true" signature="53353:53531" ph="..." />
+                <marker date="1510047216891" expanded="true" signature="53393:53497" ph="..." />
+                <marker date="1510047216891" expanded="true" signature="53414:53475" ph="..." />
+                <marker date="1510047216891" expanded="true" signature="53609:53915" ph="..." />
+                <marker date="1510047216891" expanded="true" signature="53628:53900" ph="..." />
+                <marker date="1510047216891" expanded="true" signature="53702:53880" ph="..." />
+                <marker date="1510047216891" expanded="true" signature="53742:53846" ph="..." />
+                <marker date="1510047216891" expanded="true" signature="53763:53824" ph="..." />
+                <marker date="1510047216891" expanded="true" signature="53966:54314" ph="..." />
+                <marker date="1510047216891" expanded="true" signature="53985:54299" ph="..." />
+                <marker date="1510047216891" expanded="true" signature="54062:54279" ph="..." />
+                <marker date="1510047216891" expanded="true" signature="54102:54245" ph="..." />
+                <marker date="1510047216891" expanded="true" signature="54123:54223" ph="..." />
+                <marker date="1510047216891" expanded="true" signature="54366:54631" ph="..." />
+                <marker date="1510047216891" expanded="true" signature="54385:54616" ph="..." />
+                <marker date="1510047216891" expanded="true" signature="54418:54596" ph="..." />
+                <marker date="1510047216891" expanded="true" signature="54458:54562" ph="..." />
+                <marker date="1510047216891" expanded="true" signature="54479:54540" ph="..." />
+                <marker date="1510047216891" expanded="true" signature="54679:54944" ph="..." />
+                <marker date="1510047216891" expanded="true" signature="54698:54929" ph="..." />
+                <marker date="1510047216891" expanded="true" signature="54731:54909" ph="..." />
+                <marker date="1510047216891" expanded="true" signature="54771:54875" ph="..." />
+                <marker date="1510047216891" expanded="true" signature="54792:54853" ph="..." />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -50,24 +96,57 @@
             <state relative-caret-position="0">
               <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
               <folding>
-                <marker date="1510046383781" expanded="true" signature="2168:2499" ph="..." />
-                <marker date="1510046383781" expanded="true" signature="2202:2484" ph="..." />
-                <marker date="1510046383781" expanded="true" signature="2224:2471" ph="..." />
-                <marker date="1510046383781" expanded="true" signature="2249:2331" ph="..." />
-                <marker date="1510046383781" expanded="true" signature="2267:2305" ph="..." />
-                <marker date="1510046383781" expanded="true" signature="2356:2448" ph="..." />
-                <marker date="1510046383781" expanded="true" signature="2374:2422" ph="..." />
-                <marker date="1510046383781" expanded="true" signature="2625:2686" ph="..." />
+                <marker date="1510047154861" expanded="true" signature="2225:2556" ph="..." />
+                <marker date="1510047154861" expanded="true" signature="2259:2541" ph="..." />
+                <marker date="1510047154861" expanded="true" signature="2281:2528" ph="..." />
+                <marker date="1510047154861" expanded="true" signature="2306:2388" ph="..." />
+                <marker date="1510047154861" expanded="true" signature="2324:2362" ph="..." />
+                <marker date="1510047154861" expanded="true" signature="2413:2505" ph="..." />
+                <marker date="1510047154861" expanded="true" signature="2431:2479" ph="..." />
+                <marker date="1510047154861" expanded="true" signature="2682:2743" ph="..." />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
       <file leaf-file-name="pom.xml" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/pom.xml">
+        <entry file="file://$PROJECT_DIR$/AI_TODO/pom.xml">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="168">
-              <caret line="8" column="33" lean-forward="true" selection-start-line="8" selection-start-column="33" selection-end-line="8" selection-end-column="33" />
+            <state relative-caret-position="122">
+              <caret line="21" column="17" lean-forward="true" selection-start-line="21" selection-start-column="17" selection-end-line="21" selection-end-column="17" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="README.md" pinned="false" current-in-tab="true">
+        <entry file="jar://$MAVEN_REPOSITORY$/org/webjars/bower/angular/1.5.6/angular-1.5.6.jar!/META-INF/resources/webjars/angular/1.5.6/README.md">
+          <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+            <state split_layout="SPLIT">
+              <first_editor relative-caret-position="252">
+                <caret line="12" column="8" lean-forward="true" selection-start-line="12" selection-start-column="8" selection-end-line="12" selection-end-column="8" />
+                <folding />
+              </first_editor>
+              <second_editor />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="AITODO.iml" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/AITODO.iml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="0">
+              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name=".gitignore" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/.gitignore">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="0">
+              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
               <folding />
             </state>
           </provider>
@@ -86,8 +165,10 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/pom.xml" />
         <option value="$PROJECT_DIR$/.idea/workspace.xml" />
+        <option value="$PROJECT_DIR$/.gitignore" />
+        <option value="$PROJECT_DIR$/pom.xml" />
+        <option value="$PROJECT_DIR$/AI_TODO/pom.xml" />
       </list>
     </option>
   </component>
@@ -140,17 +221,7 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="External Libraries" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ExternalLibrariesNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="AITODO" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="AITODO" />
+              <option name="myItemId" value="AI_TODO" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
@@ -160,47 +231,11 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="AITODO" />
+              <option name="myItemId" value="AI_TODO" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
               <option name="myItemId" value="src" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="test" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="AITODO" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="AITODO" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="src" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="main" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="AITODO" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="AITODO" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value=".idea" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
@@ -626,12 +661,12 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1510045937870</updated>
-      <workItem from="1510045941629" duration="584000" />
+      <workItem from="1510045941629" duration="1327000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="584000" />
+    <option name="totallyTimeSpent" value="1327000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="2391" y="-9" width="2418" height="1318" extended-state="6" />
@@ -657,8 +692,8 @@
       <window_info id="Capture Analysis" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
       <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="Terminal" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.32938188" sideWeight="0.49833333" order="-1" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.32938188" sideWeight="0.49833333" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="Theme Preview" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
@@ -705,31 +740,108 @@
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
           <folding>
-            <marker date="1510046383781" expanded="true" signature="2168:2499" ph="..." />
-            <marker date="1510046383781" expanded="true" signature="2202:2484" ph="..." />
-            <marker date="1510046383781" expanded="true" signature="2224:2471" ph="..." />
-            <marker date="1510046383781" expanded="true" signature="2249:2331" ph="..." />
-            <marker date="1510046383781" expanded="true" signature="2267:2305" ph="..." />
-            <marker date="1510046383781" expanded="true" signature="2356:2448" ph="..." />
-            <marker date="1510046383781" expanded="true" signature="2374:2422" ph="..." />
-            <marker date="1510046383781" expanded="true" signature="2625:2686" ph="..." />
+            <marker date="1510047154861" expanded="true" signature="2225:2556" ph="..." />
+            <marker date="1510047154861" expanded="true" signature="2259:2541" ph="..." />
+            <marker date="1510047154861" expanded="true" signature="2281:2528" ph="..." />
+            <marker date="1510047154861" expanded="true" signature="2306:2388" ph="..." />
+            <marker date="1510047154861" expanded="true" signature="2324:2362" ph="..." />
+            <marker date="1510047154861" expanded="true" signature="2413:2505" ph="..." />
+            <marker date="1510047154861" expanded="true" signature="2431:2479" ph="..." />
+            <marker date="1510047154861" expanded="true" signature="2682:2743" ph="..." />
           </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/pom.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="168">
-          <caret line="8" column="33" lean-forward="true" selection-start-line="8" selection-start-column="33" selection-end-line="8" selection-end-column="33" />
-          <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/.idea/workspace.xml">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-1512">
+        <state relative-caret-position="-2268">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding>
+            <marker date="1510047216891" expanded="true" signature="52411:52430" ph="..." />
+            <marker date="1510047216891" expanded="true" signature="52411:52448" ph="..." />
+            <marker date="1510047216891" expanded="true" signature="52411:52461" ph="..." />
+            <marker date="1510047216891" expanded="true" signature="52411:52476" ph="..." />
+            <marker date="1510047216891" expanded="true" signature="52511:54973" ph="..." />
+            <marker date="1510047216891" expanded="true" signature="52524:54958" ph="..." />
+            <marker date="1510047216891" expanded="true" signature="52578:52873" ph="..." />
+            <marker date="1510047216891" expanded="true" signature="52597:52858" ph="..." />
+            <marker date="1510047216891" expanded="true" signature="52660:52838" ph="..." />
+            <marker date="1510047216891" expanded="true" signature="52700:52804" ph="..." />
+            <marker date="1510047216891" expanded="true" signature="52721:52782" ph="..." />
+            <marker date="1510047216891" expanded="true" signature="52923:53250" ph="..." />
+            <marker date="1510047216891" expanded="true" signature="52942:53235" ph="..." />
+            <marker date="1510047216891" expanded="true" signature="53037:53215" ph="..." />
+            <marker date="1510047216891" expanded="true" signature="53077:53181" ph="..." />
+            <marker date="1510047216891" expanded="true" signature="53098:53159" ph="..." />
+            <marker date="1510047216891" expanded="true" signature="53301:53566" ph="..." />
+            <marker date="1510047216891" expanded="true" signature="53320:53551" ph="..." />
+            <marker date="1510047216891" expanded="true" signature="53353:53531" ph="..." />
+            <marker date="1510047216891" expanded="true" signature="53393:53497" ph="..." />
+            <marker date="1510047216891" expanded="true" signature="53414:53475" ph="..." />
+            <marker date="1510047216891" expanded="true" signature="53609:53915" ph="..." />
+            <marker date="1510047216891" expanded="true" signature="53628:53900" ph="..." />
+            <marker date="1510047216891" expanded="true" signature="53702:53880" ph="..." />
+            <marker date="1510047216891" expanded="true" signature="53742:53846" ph="..." />
+            <marker date="1510047216891" expanded="true" signature="53763:53824" ph="..." />
+            <marker date="1510047216891" expanded="true" signature="53966:54314" ph="..." />
+            <marker date="1510047216891" expanded="true" signature="53985:54299" ph="..." />
+            <marker date="1510047216891" expanded="true" signature="54062:54279" ph="..." />
+            <marker date="1510047216891" expanded="true" signature="54102:54245" ph="..." />
+            <marker date="1510047216891" expanded="true" signature="54123:54223" ph="..." />
+            <marker date="1510047216891" expanded="true" signature="54366:54631" ph="..." />
+            <marker date="1510047216891" expanded="true" signature="54385:54616" ph="..." />
+            <marker date="1510047216891" expanded="true" signature="54418:54596" ph="..." />
+            <marker date="1510047216891" expanded="true" signature="54458:54562" ph="..." />
+            <marker date="1510047216891" expanded="true" signature="54479:54540" ph="..." />
+            <marker date="1510047216891" expanded="true" signature="54679:54944" ph="..." />
+            <marker date="1510047216891" expanded="true" signature="54698:54929" ph="..." />
+            <marker date="1510047216891" expanded="true" signature="54731:54909" ph="..." />
+            <marker date="1510047216891" expanded="true" signature="54771:54875" ph="..." />
+            <marker date="1510047216891" expanded="true" signature="54792:54853" ph="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/AITODO.iml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
           <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="269">
+          <caret line="31" column="0" lean-forward="true" selection-start-line="31" selection-start-column="0" selection-end-line="31" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/.gitignore">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/AI_TODO/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="122">
+          <caret line="21" column="17" lean-forward="true" selection-start-line="21" selection-start-column="17" selection-end-line="21" selection-end-column="17" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/webjars/bower/angular/1.5.6/angular-1.5.6.jar!/META-INF/resources/webjars/angular/1.5.6/README.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="252">
+            <caret line="12" column="8" lean-forward="true" selection-start-line="12" selection-start-column="8" selection-end-line="12" selection-end-column="8" />
+            <folding />
+          </first_editor>
+          <second_editor />
         </state>
       </provider>
     </entry>
